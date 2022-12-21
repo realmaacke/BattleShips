@@ -1,2 +1,8 @@
 # BattleShips
- Battle ships with socket.io (with chat system)
+ Battle ships Game [IN PROGRESS] 
+ Listening on port: 3000
+ 
+ Integrated chat system
+ Multyplayer
+ 
+ 
